@@ -169,7 +169,7 @@ Table of Content:
      float:left;
 }
  .img img{
-     width:100%;
+     width:89%;
      float:left;
      height:auto;
 }
@@ -4152,4 +4152,12 @@ ul.whychoose-list li.security-icon{
 }
 .header2  ul.header-info{
 	width:78%;
+}
+.logo-home{
+     width: 150px ; 
+
+}
+#logoMobile{
+     width: 80px ; 
+     margin-left: 15px ; 
 }
