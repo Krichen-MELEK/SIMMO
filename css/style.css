@@ -1390,7 +1390,7 @@ ul.whychoose-list li.security-icon{
 }
  .home2.bestthing-section {
      height: auto;
-     background:url(../images/index2-wordpress-bg.jpg) no-repeat center top;
+     background:url(../images/image.png) no-repeat center top;
 	 padding: 95px 0px 95px;
      background-size:cover;
 	 background-attachment: fixed;
@@ -1827,7 +1827,7 @@ ul.whychoose-list li.security-icon{
 /*======inner pages banner end=======*/
 /*=======about-page========*/
  .bestthing-section.why-choose-section{
-     height:469px;
+     height:600px;
 }
  .bestthing-section.why-choose-section .bestthing-text-column {
      padding-top:10px;
@@ -1865,16 +1865,7 @@ ul.whychoose-list li.security-icon{
      margin-bottom:93px;
      position:relative;
 }
- .history-list:before{
-     width:100%;
-     position:absolute;
-     right:0px;
-     height:1px;
-     content:"";
-     background:#ccc;
-     left:0px;
-     top:58%;
-}
+
  .history-list .top-img{
      display:inline-block;
      width:100%;
@@ -4057,7 +4048,7 @@ ul.whychoose-list li.security-icon{
 	position:relative;
 }
 .hmslider1 .slide-1{
-	background-image: url(../images/home1-images/home1-slide1.jpg);
+	background-image: url(../images/tournageCNC.jpg);
 	background-position: center right;
 }
 .hmslider1 .slide-2{
@@ -4070,15 +4061,15 @@ ul.whychoose-list li.security-icon{
 }
 
 .home2 .slide-1{
-	background-image: url(../images/home2-images/home2-slide11.jpg);
+	background-image: url(../images/image003.jpg);
 	background-position: center right;
 }
 .home2 .slide-2{
-	background-image: url(../images/home2-images/home2-slide12.jpg);
+	background-image: url(../images/outilCNC.png);
 	background-position: center right;
 }
 .home2 .slide-3{
-	background-image: url(../images/home2-images/home2-slide3.jpg);
+	background-image: url(../images/formation.png);
 	background-position: center right;
 }
 
